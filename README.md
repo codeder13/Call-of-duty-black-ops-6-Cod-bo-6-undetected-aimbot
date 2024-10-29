@@ -1,6 +1,7 @@
 # Call of duty black ops 6 Menu
 
-![screenshot](https://github.com/user-attachments/assets/14c94246-9bb1-4afa-bc94-40c33d2cbf2f)
+![screenshot](https://github.com/user-attachments/assets/57d09344-345f-4dd4-a93d-dd2d29ed606b)
+
 
 ## Features
 
